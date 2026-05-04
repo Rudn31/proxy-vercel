@@ -3,7 +3,7 @@
 "rewrites": [
 {
 "source": "/(.*)",
-"destination": "http://SEU_IP_OU_DOMINIO/$1"
+"destination": "http://191.252.184.175/$1"
 }
 ]
 }
