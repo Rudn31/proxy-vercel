@@ -1,0 +1,9 @@
+{
+"version": 2,
+"rewrites": [
+{
+"source": "/(.*)",
+"destination": "http://SEU_IP_OU_DOMINIO/$1"
+}
+]
+}
