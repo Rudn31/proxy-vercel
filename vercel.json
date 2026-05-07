@@ -3,7 +3,7 @@
 "rewrites": [
 {
 "source": "/(.*)",
-"destination": "http://conecta.recnet5g.xyz/$1"
+"destination": "http://151.244.242.135/$1"
 }
 ]
 }
